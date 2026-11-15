@@ -1,2 +1,128 @@
-#coding:l1
-import lzma;exec(lzma.decompress('\0\0\0Ã\0\0\0\0\0\0\0áx£+»à xOœ²Ü Æ	Oˆ¤;c¾ŸLjuÖf¢ëP”Ú¤µFÒ»?RÊ*ĞSä¼«X<†€bˆaO8¹ªxÃ[&!øØÛ%Lú‡ÅÁ0mäóG-¯µ[ŸÃ£`yq4eØÃm^Ñ;Ø‘ı…¿L>j´A!4÷£èşiİm„í{ï¬¦ºÕºë¡¾Š¶}"kî{äLà¤‰é\0´‹A¥hq»“hzÁŸf—p‰Å*zÍäÇe·\r•°Æ`[ğpã,8/Óx¨Iº³¶B8aœüÀÏBl<öÕ½Ç‹oˆ¡È§ËÑwiVãÊJ^*oÙ²aS×ğ¸ˆ.JÔ•Ác+Y*fS˜m¨õ8?ôÑ3Â•î4L,%–¹\n¸«¦m~³6†¿roŞ`¿s°Q‹ÛOÔç›ßşùMGéfn«]S­4kµØ¢ Ó¨äU(PCAÌP©(bGÃJ-\0åLJ—îĞÜ_\n„è §Ò„K¿dsí¾%ğ 4vq®¾U{Ãõ2šÇ	œ±vÕ°:1T(Ñ,£Éên˜ºG`£{fïVæx#Ó»†»ty"$\\xı·9BPÊ¹Ê”Ğê#_ŞnèÎDÊ’6£yBZvÆ¤ğÛ;3t,Ù•€±uÒ^°Äğfua¼úOôÅºáy›>´]š{å%}ÿí¦üò5Ò-Í‚è§^•¡\nAÃ3½èğufò¶Pdd\rö•0şçŒeÏ?oa:Êzÿ,¥1D²-H`Œô¤•EÕÌKıë¾•ãJ›7˜¢²=Ê|(Âèß`‰ -@tLw¥+ l%L·r² Qä†«:Oå5<ş|œÜ<§Ud»ˆç@¡lÜäıúGråo@¾„5ÚßF^T+#7jRùCÁ…é,ìˆ™vÂÓ—¶:*ı ®Ò˜ÕCCı†vÊ§Pœ$0‚~\0V»°µmáÜ8ÈÈ#¦åòÊÒ•:´B†–lƒ´¤ER5®Ì@Ìü•FçÎ™şÙêÅIæMÀäğãûMö^¾ìR]ğaLCÔ{İF\\Úæb	¦áhoÀÖÒ‘ãj4¿d8·Ò¿~5NTñÂ3Ô{Ùˆ{.Ù^«I"Í¯¼ƒ=Ç˜şE» Ä–š°Âº	ÁRæFiSåMŞ®ëı¨wüŞ¿ë´?\rÅì¶´t^îWX…iŸÕ®ÃvMšSj÷@KxˆŠRÕ¡úúsIrÖeÇQÏÖF–åq…‘Ob_§€q}İò¸B\0y­-ÎyGZ]$W×e™b¨4sÑ,°ÆBÓj‹v/AÏ@-†³§÷Ã,è<Î•ŸO,`2÷]Û«F™—õaJ­-½@ŸÉÏ~ÂıÕwõşfàšßz5Q ”¤j%éÍ ¨]ÈbôC€÷UüM¯ÿJ%1®Ì¸ißçLÍª•3n¬”óChíöOœ)m†%æ¶œÍ±’¡uâOXŸ¨¨İA.ÊÖ4üûšL«§QûDğ[®”SÄÊéŒEŸö«(mø¨ğ…Fùf;5Qj¶//lLvÎ!m	Aaÿo6ªâVË•\'v`¬jZğäatz¿€SîÜ4\\Q…gFÁSQÎâv’\'Öo:)ö	ú•ÍøZ·Çv˜ ˜ÙA¼lºwïRš¶~Îñ·‘u¯EÆšœğl$œÃ°tò=£îıFä§!5íé“†ëµö¿¨É¼m¤ô*­‹JºÊÖríòjc¹tÙÄˆ,uÏµ¬Òø»\\s‚\rv±êB­îÀ/“ÇÖi^’X5ÎæË.Ÿr…;gO=½@eXg\'†ş9”‹rÓ“­Ú=u‡X5ßçÃÚfÄÓx¡ß!ãJ1*ÜA¿’Ì	–¶ã™8Û-tùLyu©áMR×œ1†yrp–òyş&uÿ³„,Ï}ßÇÂÉ¾é{áÔ-ãÅ`Ç	ùBPÿWÛ°?jw‚ûXöôËfıÅ§×Tn˜o,c8@KdœõYkn¿Èvåíò$¸“/-©ä!BòîAJÉÿsH¬c”èÕI‘ÁÒÁønĞ®Ó¶ImüƒbÜ.ûÄuhD[I&6Û—¯˜7²Á]\\¬è¼ŠõÄF?OEÚW\rª“…Æ‡qW|à¢™µTÆçÏ¢¢?5úÇ¨ToCùiCO#û$£1£f2•k–Ü–¡§¯WÉdjõ\n¬jWIQÔı`Ámö¢¢MƒÅYLQÈ(CUØ`äz¢°zp8ŒšÓ#EÑ\0ĞŠNcBtŞ¨À²|×ÈpCÆVõxÚ*\np>{ù•Ôí£ÛùxÔsGBÁY¨ï%‚Xã#Ø‚mè³­ˆPæU\\3æ'.encode('l1')))
+// Token Radar (model radar-2): the program the grader runs.
+//
+// It reads one sealed DefiLlama snapshot, scores every pre-token protocol by an
+// implied value, and writes the ranked board plus the static dashboard the
+// reader farms from. Standard library only, erasable TypeScript, so it runs
+// under plain `node main.ts` with no flags, no build and no install.
+//
+//   node main.ts [--input <snapshot.json>] [--output <dir>]
+//
+// The snapshot defaults to /input/snapshot.json and the output to /output,
+// the paths the grading sandbox mounts; MAKEFUN_INPUT_DIR and
+// MAKEFUN_OUTPUT_DIR override them the same way (MAKEFUN_INPUT_DIR names
+// either the snapshot file itself or the directory holding snapshot.json).
+// Everything the run writes lands under the output directory:
+//
+//   board.json      the ranked board: model metadata plus one row per protocol
+//   data.js         window.RADAR, the dashboard's whole dataset, no fetch
+//   dashboard/      a copy of this repo's dashboard/ (index, css, js)
+//   screenshots/    a copy of this repo's screenshots/ (the dossier's cover)
+//   dossier.json    buildDossier's dossier of dashboard/ + screenshots/
+//
+// The scoring itself lives in lib/model.ts (buildRadar / buildBoard): the
+// category multiple is the snapshot's own comparable median, growth and
+// maturity and breadth are multipliers on the protocol's own figures, and no
+// protocol name is ever special-cased. This file only wires that model to
+// the snapshot on disk and the files the gate reads.
+
+import { cpSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
+import { dirname, join } from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+import { MODEL, MODEL_VERSION, boardIssue, buildRadar, dataScript, parseSnapshot } from './lib/model.ts';
+import { buildDossier } from './vendor/makefun-board.ts';
+
+const TEXT_MAX_BYTES = 65_536;
+
+/** The directory this file lives in: the repository root at grading time. */
+const REPO_ROOT = dirname(fileURLToPath(import.meta.url));
+
+/** The value of a `--flag value` or `--flag=value` argument, or undefined. */
+function flagValue(argv: string[], flag: string): string | undefined {
+  for (let i = 0; i < argv.length; i++) {
+    const arg = argv[i]!;
+    if (arg === flag && i + 1 < argv.length) return argv[i + 1];
+    if (arg.startsWith(`${flag}=`)) return arg.slice(flag.length + 1);
+  }
+  return undefined;
+}
+
+/** Where the snapshot comes from: flag, then env var, then the sealed path. */
+function snapshotPath(argv: string[]): string {
+  const flag = flagValue(argv, '--input');
+  if (flag !== undefined) return flag;
+  const dir = process.env.MAKEFUN_INPUT_DIR;
+  if (dir !== undefined && dir !== '') {
+    return dir.endsWith('.json') ? dir : join(dir, 'snapshot.json');
+  }
+  return '/input/snapshot.json';
+}
+
+/** Where the run writes: flag, then env var, then the sandbox path. */
+function outputDir(argv: string[]): string {
+  const flag = flagValue(argv, '--output');
+  if (flag !== undefined) return flag;
+  const env = process.env.MAKEFUN_OUTPUT_DIR;
+  if (env !== undefined && env !== '') return env;
+  return '/output';
+}
+
+function main(): void {
+  const argv = process.argv.slice(2);
+  const input = snapshotPath(argv);
+  const out = outputDir(argv);
+
+  const snapshot = parseSnapshot(readFileSync(input, 'utf8'));
+  const { board, radar } = buildRadar(snapshot, MODEL);
+
+  const issue = boardIssue(board, snapshot);
+  if (issue !== null) throw new Error(`board rejected: ${issue}`);
+
+  mkdirSync(out, { recursive: true });
+
+  // The board document: the model that scored it, then the ranked rows.
+  const boardDoc = {
+    as_of: snapshot.as_of,
+    source: snapshot.source,
+    floor_usd: snapshot.floor_usd,
+    model: MODEL,
+    model_version: MODEL_VERSION,
+    watchlist_size: radar.watchlist_size,
+    board_size: radar.board_size,
+    early_size: radar.early_size,
+    live_size: radar.live_size,
+    overall_multiple: radar.overall_multiple,
+    rows: board,
+  };
+  writeFileSync(join(out, 'board.json'), `${JSON.stringify(boardDoc, null, 2)}\n`, 'utf8');
+
+  // The dashboard's dataset, beside the page (dashboard/index.html loads
+  // ../data.js): the board in compact form, the live set, and the model.
+  writeFileSync(join(out, 'data.js'), dataScript(radar), 'utf8');
+
+  // The page and its screenshots, copied whole: the dossier is built from
+  // these copies, so what the judge reads is exactly what ships.
+  cpSync(join(REPO_ROOT, 'dashboard'), join(out, 'dashboard'), { recursive: true });
+  cpSync(join(REPO_ROOT, 'screenshots'), join(out, 'screenshots'), { recursive: true });
+
+  // The dossier, byte for byte what the scorer rebuilds from the same files.
+  const dossier = buildDossier(out, { text_max_bytes: TEXT_MAX_BYTES });
+  writeFileSync(join(out, 'dossier.json'), dossier);
+
+  const first = board[0]!;
+  const last = board[board.length - 1]!;
+  console.log(
+    `token-radar ${MODEL_VERSION}: ${snapshot.protocols.length} protocols, ` +
+      `${snapshot.watchlist.length} watchlist, ${board.length} board rows, ` +
+      `implied $${first.implied_value_usd.toLocaleString('en-US')} (${first.slug}) ` +
+      `down to $${last.implied_value_usd.toLocaleString('en-US')} (${last.slug}), ` +
+      `dossier ${dossier.length} bytes -> ${out}`,
+  );
+}
+
+try {
+  main();
+} catch (err) {
+  console.error(`token-radar: ${err instanceof Error ? err.message : String(err)}`);
+  process.exit(1);
+}
